@@ -2,7 +2,7 @@
 
 ![Using Digital Rupee](media/icici.gif)
 
-Ever heard of the Digital Rupee? It's like your regular money, but in a smarter, digital avatar! And good te good news - It's the same but better! Let's dive into how this new avatar of digital money will transform Bharat's financial system.
+Ever heard of the Digital Rupee? It's like your regular money, but in a smarter, digital avatar! And the good news is - it's the same but better! Let's dive into how this new avatar of digital money will transform Bharat's financial system.
 
 ## UPI is great! Why do we need digital rupee?
 
